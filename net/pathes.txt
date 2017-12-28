@@ -1,0 +1,6 @@
+Path to .prototxt file:
+/home/dgehi/CLionProjects/cursovaya/net/model.prototxt
+Path to .caffemodel file:
+/home/dgehi/CLionProjects/cursovaya/net/model.caffemodel
+Path to labels file:
+/home/dgehi/CLionProjects/cursovaya/net/labels.txt
